@@ -1,0 +1,144 @@
+/   Amazon
+/gp/site-directory   Shop byCategory
+https://www.amazon.in/gp/navigation/redirector.html?ie=UTF8&associationHandle=inflex&currentPageURL=https%3A%2F%2Fwww.amazon.in%2F%3Fie%3DUTF8%26ref_%3Dnav_ya_signin&gatingWeblabOn=1&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin   Hello. Sign inYour Orders
+https://www.amazon.in/gp/cart/view.html   Cart
+/gp/registry/wishlist   WishList
+/gp/yourstore/home   Your Amazon.in
+/gp/goldbox   Today's Deals
+/gift-card-store/b?ie=UTF8&node=3704982031   Gift Cards
+/b?ie=UTF8&node=2838698031   Sell
+/gp/help/customer/display.html?ie=UTF8&nodeId=200507590   Customer Service
+#gw-ftGr-desktop-hero-kindle-A   gw-ftGr-desktop-hero-kindle-A
+#gw-ftGr-desktop-hero-kindle-B   gw-ftGr-desktop-hero-kindle-B
+#gw-ftGr-desktop-hero-softlines   gw-ftGr-desktop-hero-softlines
+#gw-ftGr-desktop-hero-piv   gw-ftGr-desktop-hero-piv
+#gw-ftGr-desktop-hero-prime   gw-ftGr-desktop-hero-prime
+#gw-ftGr-desktop-hero-A   gw-ftGr-desktop-hero-A
+#gw-ftGr-desktop-hero-B   gw-ftGr-desktop-hero-B
+#gw-ftGr-desktop-hero-C   gw-ftGr-desktop-hero-C
+/gp/goldbox   
+/All-New-Kindle-Paperwhite-Resolution-Display/dp/B00QJDOEAO?ie=UTF8&*Version*=1&*entries*=0   
+/Portronics-Pure-Sound-Portable-Speaker/dp/B00DJ5ZWRY   
+/Gadgetbucket-Bluetooth-Subwoofer-Waterproof-Handsfree/dp/B01879TS4E   
+/JBL-Wireless-Portable-Speaker-Grey/dp/B00UWM50GK   
+/UBON-MULTIMEDIA-SPEAKERS-LAPTOP-MOBILE/dp/B00RQLUTIE   
+/Waterplay-BT-shower-speaker-Black/dp/B00IPL6Q4U   
+/gp/bestsellers/electronics/1389370031   More Bestsellers
+/Endura-Mass-Weight-Gainer-Chocolate/dp/B00KTA7072   
+/Optimum-Nutrition-100-Whey-Standard/dp/B002DYIZH6   
+/Optimum-Nutrition-100-Whey-Standard/dp/B000QSNYGI   
+/Optimum-Nutrition-Serious-Mass-Chocolate/dp/B0015R36SK   
+/Optimum-Nutrition-Micro-Creatine-Powder/dp/B002DYIZEE   
+/gp/bestsellers/hpc/1374491031/   See more
+/b?_encoding=UTF8&node=8517080031   
+/b?_encoding=UTF8&node=8988708031   
+/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fservices.amazon.in%2Fservices%2Fsell-on-amazon%2Fbenefits.html%3Fld%3DGWINSOASKSellSmart&source=standards&token=13F73187C1D69D354D454255A43844CCD63E94CB   
+/gp/bestsellers/books   See more
+/Manorama-Yearbook-2016-Mammen-Mathew/dp/9383197900   34% off
+/Who-Will-Cry-When-You/dp/8179922324   50% off
+/The-Alchemist-Paulo-Coelho/dp/8172234988   60% off
+/The-Monk-Who-Sold-Ferrari/dp/817992162X   50% off
+/Quantitative-Aptitude-Competitive-Examinations-Aggarwal/dp/8121924987   43% off
+/The-Power-Your-Subconscious-Mind/dp/9380227582   50% off
+/Life-What-Make-Preeti-Shenoy/dp/9380349300   50% off
+/Word-Power-Made-Norman-Lewis/dp/8183071007   35% off
+/To-Kill-Mockingbird-Harper-Lee/dp/0099549484   58% off
+/Wings-Fire-A-P-J-Abdul-Kalam/dp/8173711461   50% off
+/Think-Grow-Rich-Napoleon-Hill/dp/8192910911   50% off
+/Half-Girlfriend-Chetan-Bhagat/dp/8129135728   56% off
+/Mrs-Funnybones-Twinkle-Khanna/dp/0143424467   67% off
+/Our-Impossible-Love-Durjoy-Datta/dp/0143424610   30% off
+/The-Old-Man-Ernest-Hemingway/dp/0099908409   47% off
+/General-Knowledge-2016-Current-Affairs/dp/8178123819   20% off
+/Diary-Wimpy-Kid-Old-School/dp/0141365099   40% off
+/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745   56% off
+#   
+#   
+/gp/bestsellers/computers/1375395031   See more
+/Seagate-Backup-Portable-External-Storage/dp/B00GASLJK6   46% off
+/Transcend-StoreJet-2-5-inch-Portable-External/dp/B005MNGQ6C   23% off
+/Seagate-Backup-Portable-External-Storage/dp/B00GO0HY68   46% off
+/Elements-USB-Hard-Drive-Black/dp/B008GS8LT0   26% off
+/WD-Passport-WDBGPU0010BBK-Portable-External/dp/B00Y0R9D6G   30% off
+/Toshiba-Canvio-Basics-HDTB310AK3AA-External/dp/B00N78RZO6   18% off
+/WD-Passport-Secure-Portable-External/dp/B00ZFDD3YM   
+/WD-Elements-Portable-Hard-Black/dp/B00FMWMKZE   21% off
+/Seagate-Backup-Portable-External-Storage/dp/B00GO0I49Y   45% off
+/Seagate-Backup-Portable-External-Storage/dp/B00GASLORE   44% off
+/passport-soft-carry-case/dp/B008HCKLU2   
+#   
+#   
+/s?_encoding=UTF8&Q%7CMaxima%20Ego%7CPulse%7CYepme%7CSonata%7CCalvino=&bbn=1350387031&rh=i%3Awatches%2Cn%3A1350387031%2Cp_76%3A1318482031%2Cp_36%3A-49900%2Cp_n_pct-off-with-tax%3A2665399031%2Cp_89%3ALaurels%7CTimex%7CTitan%7CMaxima%7CQ   See more
+/Laurels-Imperial-Analog-Silver-Lo-Imp-201/dp/B00INB9O2S   88% off
+/Laurels-Veteran-Analog-Silver-Lo-Vet-201/dp/B00INB907W   89% off
+/Laurels-Original-February-Analog-Womens/dp/B00INBAFAS   83% off
+/Maxima-Ego-Analog-White-Watch/dp/B00O8UNBNG   76% off
+/Laurels-Monster-Analog-Watch-Lw-Mns-101/dp/B00NKPSTO6   85% off
+/Laurels-Original-Aspire-1-Watch/dp/B00INB9QQM   85% off
+/Laurels-Original-Polo-Series-Watch/dp/B00LUYN97G   87% off
+/Maxima-Ego-Analog-White-Watch/dp/B013FURLEE   87% off
+/Laurels-Veteran-Analog-Silver-Lo-Vet-202/dp/B00INB934M   88% off
+/Laurels-Original-Black-Analogue-Lo-Polo-502/dp/B00T7EPUDW   87% off
+/Laurels-Original-Analogue-Watch-Lo-Gt-203/dp/B00T7EPXAM   86% off
+/Laurels-Veteran-Analog-Silver-Lo-Vet-101/dp/B00INB8S4S   87% off
+/Maxima-Ego-Analog-Black-Watch/dp/B017ITW1EI   75% off
+/Maxima-Ego-Analog-Black-Watch/dp/B017ITVO32   73% off
+/Maxima-Ego-Analog-Silver-Watch/dp/B00WM6T2MW   80% off
+/Maxima-Ego-Analog-Black-Watch/dp/B00O8UMZW4   75% off
+/Maxima-Ego-Analog-Black-Watch/dp/B00WM6TP1K   80% off
+/Maxima-Ego-Digital-Black-Watch/dp/B016W879WK   70% off
+#   
+#   
+/dp/B018U7PG30   
+/b?_encoding=UTF8&node=7107819031   
+/s?_encoding=UTF8&rh=i%3Aaps%2Ck%3A%22Wedding-gifts-2015%22   See more
+/Canon-IXUS-160-Digital-Optical/dp/B00TIJUUTU   15% off
+/Philips-Collection-HD9220-Fryer-Technology/dp/B009UOR7KI   41% off
+/Titan-Analog-White-Womens-Watch/dp/B00BI374GQ   
+/Belle-Diamante-Gold-Diamond-Earring/dp/B00OA2IY7K   
+/Titan-Analog-Mother-Womens-95011WM03J/dp/B00NFFUQB0   
+/Pimento-By-Malaga-EM-608/dp/B00KL3OMHI   35% off
+/Revlon-Beauty-Kit-Kissed-Angel/dp/B010FLZZ8A   11% off
+/Wonderchef-Vinci-4-Pieces-Spoon-Spatula/dp/B00NNQPOQ8   57% off
+/Desirica-Premium-Microfibre-Reversible-Comforter/dp/B015H8B38C   50% off
+/Morphy-Richards-Icon-DLX-1000-Watt/dp/B00T669RBW   29% off
+/Tommy-Hilfiger-Analog-Silver-Watch/dp/B0078ZZFYQ   20% off
+#   
+#   
+/b?_encoding=UTF8&node=3150028031   See more
+/Philips-QT4011-Skin-Advance-Trimmer/dp/B00JJIDBIC   43% off
+/Scholl-Velvet-Smooth-Express-Electronic/dp/B00FQ1WWHM   42% off
+/Fitbit-Surge-Ultimate-Fitness-Super/dp/B00N2BWF6Q   20% off
+/Philips-QT4005-15-Stubble-Trimmer/dp/B00CE3FT66   41% off
+/Philips-QG3387-Multi-Grooming-Black/dp/B00KCMRZ40   29% off
+/Fitbit-Wireless-Activity-Tracker-Magenta/dp/B0095PZHRC   20% off
+/Philips-Straightener-Dryer-Combo-Freshers/dp/B00DU6DROC   42% off
+/Fitbit-Wi-Fi-Smart-Scale-Black/dp/B0077L8YOO   20% off
+/Philips-HP6522-01-Epilator/dp/B007CEP1K6   26% off
+/Fitbit-Wireless-Activity-Sleep-Tracker/dp/B0095PZHPE   20% off
+/Philips-Kerashine-HP8316-00-Straigthener/dp/B00E7O97IG   33% off
+/Fitbit-Wireless-Activity-Tracker-Wristband/dp/B00VQC5ZBK   20% off
+/Philips-HP8100-46-Dryer-Purple/dp/B00KCD8NFY   34% off
+/Philips-HP8658-Essential-Styler-White/dp/B00KT5M63A   48% off
+/Philips-BT9280-15-Waterproof-Trimmer/dp/B00L7FVLP0   47% off
+/Philips-AquaTouch-AT756-16-Shaver/dp/B00CE3FUGK   31% off
+/Philips-HP8317-Kerashine-Jojoba-Straightener/dp/B00MWZW91Y   30% off
+/Philips-HP8309-00-Hair-Straightener/dp/B008KH692S   25% off
+/Philips-HP8659-Kerashine-Essential-Styler/dp/B00KT5MA68   47% off
+/Philips-BT1005-Beard-Trimmer/dp/B0153G9E84   33% off
+/Philips-AquaTouch-S5050-06-Shaver/dp/B010BGCEEM   31% off
+/Philips-AquaTouch-AT610-14-Shaver/dp/B00CE3FTK2   35% off
+/Philips-AquaTouch-S5420-06-Shaver/dp/B010BGD2I4   23% off
+/Philips-BG105-11-Bodyshaver/dp/B00Z0BKSS8   25% off
+/Philips-HP8112-00-Dryer-Peach/dp/B00ICCVJM6   13% off
+#   
+#   
+/b?_encoding=UTF8&node=6795452031   
+/b?_encoding=UTF8&node=7477865031   
+/s?_encoding=UTF8&bbn=4068584031&rh=i%3Advd%2Cn%3A976416031%2Cn%3A!1499767031%2Cn%3A!1499769031%2Cn%3A4068584031%2Cn%3A1375484031   See more
+/Happy-New-Year-Shahrukh-Khan/dp/B00RE5Z0UE   13% off
+/Queen-Kangana-Ranaut/dp/B00JE9WAQU   17% off
+/Ankhon-Dekhi-Sanjay-Mishra/dp/B00N0RG7OS   16% off
+/Khoobsurat-Sonam-Kapoor/dp/B00Q40TMRM   20% off
+/The-Lunchbox-Irrfan-Khan/dp/B00LIWZ4EQ   50% off
+/Manthan-

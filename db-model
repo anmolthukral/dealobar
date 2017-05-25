@@ -1,0 +1,65 @@
+user-reg-table:
+	name
+	password
+	usertoken
+
+
+user properties:
+	email
+	usertoken:
+	log_in_flag:
+	name
+	lastlogin
+	lastlogout
+
+
+products:
+	id
+	dateposted
+	name
+	link
+	image
+	parentsite
+	localimagepath
+	category
+	price
+	sellingprice
+	discount
+	keywords
+	details
+	categoryid
+	additional charges
+	coupons
+
+
+categories:
+	category
+	cathref
+	items
+	id
+
+
+
+reviews:
+	usertoken(user)
+	id(product)
+	review
+	date
+	name
+	email
+	review_id
+	
+
+
+controlers:
+	/--> main
+	/me-->account
+	/logout--> logout
+	/login-->login 
+	/register-me--->register
+	/category->catview
+	/contact
+	/about-us
+	/mail-handler
+	/contact-query-handler
+	/login-handle

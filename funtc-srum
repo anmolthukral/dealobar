@@ -1,0 +1,109 @@
+fucntionalites:
+
+kPwxpmfeH6
+Root User: adminTyxaryD
+Root Password: lxCWhb7S2xQL
+Database Name: dealobarwebapp
+
+
+
+MySQL Main Database name: 1213052 
+MySQL Database username: 1213052 
+MySQL Database password: equal with account password 
+MySQL Database host: localhost 
+
+-----------------------------------------------
+pending:
+-----------------------------------------------
+----------------------------------------------------------------
+reviews and marketing check
+
+
+---------------------------------------
+INITIAL BETA RELAESE AND DEPLOYEMENT
+----------------------------------------------------------------
+mail letter subscription
+optimize
+add csv ---check and modify the crawlers
+reviews add with ajax
+-------------------------------
+DEPLOYEMENT+ MARKETING
+------------------------------
+download images
+sending images to a remote server
+add points and filters
+product filter
+user prefrencess
+--------------------------------
+----BEFORE 11th sept------------
+---------------------------------
+
+
+------------------------------------------------
+done
+------------------------------------------------
+
+reUI and finalize UI glitches
+templating	
+sign up
+logout
+login
+session management
+admin
+raise404
+add prodcuts
+product display
+category management
+search
+product view
+post a review
+paginate
+categories show
+addreviews via ajax
+
+adding and finishing everything
+---------------------
+----TEST RELEASE-----
+---------------------
+
+
+
+
+------------------------------------------------
+further tasks
+------------------------------------------------
+
+MARKETING
+auto post scripts for facebook and twitter
+rentobar
+sellobar
+forum
+Shop architecute and system architecure
+post and earn
+track user activiy self
+machine learning
+product ranking
+
+
+
+-----------------------------
+queries
+---------------------------
+
+CREATE TABLE `1213052 `.`userauthentication` ( `email` VARCHAR(500) NOT NULL , `password` VARCHAR(500) NOT NULL , `usertoken` VARCHAR(500) NOT NULL , PRIMARY KEY (`usertoken`(500)), UNIQUE (`email`(500))) ENGINE = Aria;
+
+
+
+CREATE TABLE `1213052 `.'userproperties' ( `name` VARCHAR(500) NOT NULL , `email` VARCHAR(500) NOT NULL , `is_login` BOOLEAN NOT NULL , `usertoken` VARCHAR(500) NOT NULL , `lastlogin` DATETIME NOT NULL , `lastlogout` DATETIME NOT NULL , UNIQUE (`email`(500))) ENGINE = Aria;
+
+CREATE TABLE `1213052 `.`products` ( `id` SERIAL NOT NULL , `dateposted` DATE NOT NULL , `name` VARCHAR(500) NOT NULL , `link` TEXT NOT NULL , `image` TEXT NOT NULL , `localimage` TEXT NOT NULL , `parentsite` VARCHAR(50) NOT NULL , `category` VARCHAR(1000) NOT NULL , `price` VARCHAR(100) NOT NULL , `sellingprice` VARCHAR(100) NOT NULL , `discount` VARCHAR(5) NOT NULL , `keywords` VARCHAR(500) NOT NULL , `details` TEXT NOT NULL , `coupons` VARCHAR(1000) NOT NULL , `categoryid` VARCHAR(100) NOT NULL ) ENGINE = Aria;
+
+
+CREATE TABLE `1213052 `.`category` ( `catergory` VARCHAR(100) NOT NULL , `cathref` VARCHAR(100) NOT NULL , `items` TEXT NOT NULL , `id` VARCHAR(100) NOT NULL , UNIQUE (`id`(100))) ENGINE = Aria;
+
+
+CREATE TABLE `1213052 `.`reviews` ( `usertoken` VARCHAR(500) NOT NULL , `id` BIGINT NOT NULL , `review` TEXT NOT NULL , `date` DATETIME NOT NULL , `name` VARCHAR(500) NOT NULL , `email` VARCHAR(500) NOT NULL , `review_id` VARCHAR(100) NOT NULL ) ENGINE = Aria;
+
+
+CREATE TABLE `1213052 `.`secret` ( `secret` VARCHAR(500) NOT NULL , `id` BIGINT NOT NULL ) ENGINE = Aria;
+
