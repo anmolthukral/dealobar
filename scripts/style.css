@@ -1,0 +1,105 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f8;
+    color: #333;
+}
+
+nav {
+    background-color: #2c3e50;
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.nav-links a {
+    color: #ecf0f1;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 0.95rem;
+}
+
+.nav-links a.active {
+    color: #3498db;
+    font-weight: bold;
+}
+
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+/* Search Page */
+.search-container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.search-box input {
+    padding: 12px;
+    width: 60%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-box button {
+    padding: 12px 24px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Chat Page */
+#chat-window {
+    background: white;
+    height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 15px;
+    overflow-y: auto;
+    margin-bottom: 15px;
+}
+
+.message {
+    padding: 8px 12px;
+    margin-bottom: 8px;
+    border-radius: 15px;
+    max-width: 70%;
+}
+
+.message.system { background-color: #eee; color: #555; text-align: center; max-width: 100%; }
+.message.user { background-color: #3498db; color: white; align-self: flex-end; margin-left: auto; }
+
+/* Editor Page */
+.toolbar {
+    background: #ddd;
+    padding: 10px;
+    border-radius: 4px 4px 0 0;
+    display: flex;
+    gap: 10px;
+}
+
+.paper {
+    background: white;
+    min-height: 500px;
+    padding: 40px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    outline: none;
+}
+
+/* Blog Page */
+.blog-post { background: white; padding: 20px; margin-bottom: 20px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.meta { color: #7f8c8d; font-size: 0.9rem; }
